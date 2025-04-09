@@ -23,7 +23,7 @@ export function App() {
 
       <div className="w-lg">
         <img
-          src="src/assets/Eu.png"
+          src="public/Eu.png"
           alt="Foto Matheus Brian de Oliveira"
           className="w-full h-auto"
         />
