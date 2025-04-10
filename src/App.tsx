@@ -14,7 +14,11 @@ export function App() {
         </p>
         <a
           href=""
-          className="bg-primary bg:g rounded-lg py-4 px-12 w-max mt-4 hover:bg-primary-hover transition-colors"
+          className="bg-primary rounded-lg py-4 px-12 w-max mt-4
+             hover:bg-primary-hover
+             hover:scale-x-110
+             transition-all duration-300 ease-in-out
+             origin-left"
         >
           Chama no WhatsApp
         </a>

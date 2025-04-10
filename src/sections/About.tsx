@@ -3,7 +3,7 @@ export function About() {
     <section className="bg-background-secundary flex flex-col px-20 py-20 text-center items-center gap-10">
       <h2 className="text-4xl font-bold">Sobre mim</h2>
 
-      <div className="text-secundary flex flex-col gap-6 max-w-3xl text-base">
+      <div className="text-secundary flex flex-col gap-6 max-w-3xl text-lg">
         <p>
           Desenvolvedor Front-End com experiência em React, Tailwind CSS e
           JavaScript, especializado na criação de interfaces responsivas e
