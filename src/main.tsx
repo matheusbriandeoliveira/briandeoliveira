@@ -5,6 +5,7 @@ import { App } from "./App";
 import { Header } from "./sections/Header";
 import { About } from "./sections/About";
 import { Skills } from "./sections/Skills";
+import { Projects } from "./sections/Projects";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -12,5 +13,6 @@ createRoot(document.getElementById("root")!).render(
     <App />
     <About />
     <Skills />
+    <Projects />
   </StrictMode>
 );
