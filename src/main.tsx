@@ -6,6 +6,8 @@ import { Header } from "./sections/Header";
 import { About } from "./sections/About";
 import { Skills } from "./sections/Skills";
 import { Projects } from "./sections/Projects";
+import { Contact } from "./sections/Contact";
+import { Footer } from "./sections/Footer";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -14,5 +16,7 @@ createRoot(document.getElementById("root")!).render(
     <About />
     <Skills />
     <Projects />
+    <Contact />
+    <Footer />
   </StrictMode>
 );
