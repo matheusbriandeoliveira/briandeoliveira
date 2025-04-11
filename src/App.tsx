@@ -1,3 +1,5 @@
+import euImg from "./assets/eu.png";
+
 export function App() {
   return (
     <main className="flex flex-col-reverse items-center text-center gap-10 px-6 py-10  md:flex md:flex-row md:text-start  md:justify-between  md:items-center md:h-screen md:px-72 md:gap-15">
@@ -27,7 +29,7 @@ export function App() {
 
       <div className="w-2/3  md:w-1/3 flex ">
         <img
-          src="/eu.png"
+          src={euImg}
           alt="Foto Matheus Brian de Oliveira"
           className="w-full h-auto"
         />
