@@ -2,10 +2,10 @@ import euImg from "./assets/eu.png";
 
 export function App() {
   return (
-    <main className="flex flex-col-reverse items-center text-center gap-10 px-6 py-10  md:flex md:flex-row md:text-start  md:justify-between  md:items-center md:h-screen md:px-72 md:gap-15">
+    <main className="flex flex-col-reverse items-center text-center gap-10 px-3 py-10  md:flex md:flex-row md:text-start  md:justify-between  md:items-center md:h-screen md:px-72 md:gap-15">
       {/* Esquerda */}
       <div className="flex flex-col justify-center items-center gap-5  md:w-4xl md:flex md:flex-col md:gap-5 md:items-start">
-        <h1 className="text-3xl font-semibold leading-snug md:text-5xl  md:font-semibold  md:leading-snug	">
+        <h1 className="text-2xl font-semibold leading-snug md:text-5xl  md:font-semibold  md:leading-snug	">
           Transformando ideias em{" "}
           <span className="text-primary">interfaces modernas</span> e
           intuitivas.

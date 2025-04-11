@@ -14,7 +14,7 @@ export function Skills() {
   ];
 
   return (
-    <section className="text-center px-6 py-10 md:py-60 md:px-72 flex flex-col md:flex-row justify-center items-center gap-10">
+    <section className="text-center px-5 py-10 md:py-60 md:px-72 flex flex-col md:flex-row justify-center items-center gap-10">
       {/* Texto à esquerda */}
       <div className=" text-center md:text-left md:w-1/3 text-white">
         <h2 className="text-3xl font-bold mb-2">

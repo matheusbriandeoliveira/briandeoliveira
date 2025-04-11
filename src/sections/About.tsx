@@ -1,6 +1,6 @@
 export function About() {
   return (
-    <section className="bg-background-secundary px-6 py-10 flex flex-col md:px-20 md:py-40 text-center items-center gap-10">
+    <section className="bg-background-secundary px-5 py-10 flex flex-col md:px-20 md:py-40 text-center items-center gap-10">
       <h2 className="text-4xl font-bold">Sobre mim</h2>
 
       <div className="max-w-full text-secundary flex flex-col gap-6 md:max-w-3xl md:text-lg">
