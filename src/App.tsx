@@ -10,7 +10,7 @@ export function App() {
           <span className="text-primary">interfaces modernas</span> e
           intuitivas.
         </h1>
-        <p className=" text-secundary ">
+        <p className=" max-w-full md:w-full text-secundary ">
           Combinando Design, Desenvolvimento Frontend e tecnologia de ponta,
           transformo ideias em interfaces intuitivas e de alta performance.
         </p>

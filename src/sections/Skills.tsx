@@ -20,7 +20,7 @@ export function Skills() {
         <h2 className="text-3xl font-bold mb-2">
           Conhecimentos<span className="text-primary"> .</span>
         </h2>
-        <p className="text-sm text-secundary italic">
+        <p className="text-xs md:text-sm text-secundary italic">
           *passe o cursor do mouse no card para ler*
         </p>
       </div>
